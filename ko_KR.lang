@@ -6,20 +6,20 @@ achievement.thermalexpansion.base.desc=드디어 시작입니다.
 achievement.thermalexpansion.machineFrame=프레임!
 achievement.thermalexpansion.machineFrame.desc=아마 많이 만들게 될걸요?
 
-#achievement.thermalexpansion.furnace=Coal is For Chumps
+#achievement.thermalexpansion.furnace=석탄은 바보들의 것
 #achievement.thermalexpansion.furnace.desc=Smelt things in style!
-#achievement.thermalexpansion.pulverizer=MACHINE SMASH!
+#achievement.thermalexpansion.pulverizer=개발살!
 achievement.thermalexpansion.pulverizer.desc=작은 광석
 achievement.thermalexpansion.sawmill=나무는 끔직하지만 목재는 사랑스럽죠
 #achievement.thermalexpansion.sawmill.desc=Like punching trees, but better.
-#achievement.thermalexpansion.smelter=Two Ingots Enter, One Ingot Leaves
+#achievement.thermalexpansion.smelter=들어갈 때는 두 주괴였겠지만 나올 때는 하나란다.
 achievement.thermalexpansion.smelter.desc=절대로 요리를 위한 기계가 아니에요!
 achievement.thermalexpansion.crucible=모든것을 녹여버립니다.
 #achievement.thermalexpansion.crucible.desc=Yes, it can make lava. You monster.
-#achievement.thermalexpansion.transposer=(Mostly) Free Refills
-#achievement.thermalexpansion.transposer.desc=Filling buckets by hand is hard work.
-#achievement.thermalexpansion.precipitator=Snowball Fight!
-#achievement.thermalexpansion.precipitator.desc=Will not make yellow snow.
+#achievement.thermalexpansion.transposer=(거의) 무한리필
+#achievement.thermalexpansion.transposer.desc=손으로 양동이를 채우는 것은 지루하죠.
+#achievement.thermalexpansion.precipitator=눈싸움!
+#achievement.thermalexpansion.precipitator.desc=주의: 노란색 눈은 만들지 못합니다.
 #achievement.thermalexpansion.extruder=This Thing Rocks!
 #achievement.thermalexpansion.extruder.desc=It also Obsidians!
 achievement.thermalexpansion.accumulator=물, 그것은 어디나 존재합니다.
@@ -29,22 +29,22 @@ achievement.thermalexpansion.accumulator=물, 그것은 어디나 존재합니�
 #achievement.thermalexpansion.charger=What The Flux?
 #achievement.thermalexpansion.charger.desc=Flux knows no bounds. So watch your hands.
 
-#achievement.thermalexpansion.wrench=Looks Like a Nail!
+#achievement.thermalexpansion.wrench=못?
 achievement.thermalexpansion.wrench.desc=당신에게 매우필요한 도구는 망치에요.
 achievement.thermalexpansion.multimeter=전.기.역.학.
 #achievement.thermalexpansion.multimeter.desc=There are no accidents, only Flukes.
 #achievement.thermalexpansion.schematic=No Scheming Involved
 #achievement.thermalexpansion.schematic.desc=It's more of a plan.
-#achievement.thermalexpansion.florb=I can throw this?!
-#achievement.thermalexpansion.florb.desc=Contains a fluid. You can throw it.
+#achievement.thermalexpansion.florb=던져도 되나?
+#achievement.thermalexpansion.florb.desc=액체를 저장합니다. 던지고 놀으세요.
 achievement.thermalexpansion.florbMagmatic=세상이 불타는걸 보는건 어떤가요?
-#achievement.thermalexpansion.florbMagmatic.desc=Florb. Yes, it holds lava. You monster.
+#achievement.thermalexpansion.florbMagmatic.desc=네. 이건 용암을 담을 수 있습니다, 이 괴물아.
 
-#achievement.thermalexpansion.capacitorPotato=Half-Baked Idea!
-achievement.thermalexpansion.capacitorPotato.desc=가암쟈아
+#achievement.thermalexpansion.capacitorPotato=반숙 아이디어
+achievement.thermalexpansion.capacitorPotato.desc=가암자아
 
 achievement.thermalexpansion.fluidRedstone=레드스톤의 혁명!!
-#achievement.thermalexpansion.fluidRedstone.desc=Up is still up, down is still down. And this is still awesome.
+#achievement.thermalexpansion.fluidRedstone.desc=위쪽은 위쪽이고, 아래쪽은 아래쪽이며, 이것은 놀랍습니다.
 achievement.thermalexpansion.fluidGlowstone=위로 흐르다니!?
 #achievement.thermalexpansion.fluidGlowstone.desc=So that's how those formations occur! It all makes nonsense now!
 #achievement.thermalexpansion.fluidEnder=Wibbly-Wobbly, Timey-Wimey.
@@ -53,10 +53,10 @@ achievement.thermalexpansion.fluidEnder.desc=끝은 새로운 시작이에요.
 #achievement.thermalexpansion.fluidPyrotheum.desc=This is actually worse than lava. You monster.
 #achievement.thermalexpansion.fluidCryotheum=Winter is Coming
 #achievement.thermalexpansion.fluidCryotheum.desc=This is also worse than lava, except cold. You yeti.
-#achievement.thermalexpansion.fluidMana=When Magic Meets Tech.
+#achievement.thermalexpansion.fluidMana=마법이 기술을 만날 때
 achievement.thermalexpansion.fluidMana.desc=뭐지? 이 듣도 보도 못한 잡것은?
-#achievement.thermalexpansion.fluidCoal=Liquifaction is Salvation!
-#achievement.thermalexpansion.fluidCoal.desc=This cannot *possibly* be good for the environment.
+#achievement.thermalexpansion.fluidCoal=액화는 구원이다!
+#achievement.thermalexpansion.fluidCoal.desc="아마도" 환경에는 영 좋지 않을 것입니다.
 
 chat.thermalexpansion.light.0=모드: 스위칭; 기본설정: 켬
 chat.thermalexpansion.light.1=모드: 스위칭; 기본설정: 끔
@@ -132,7 +132,7 @@ info.thermalexpansion.augment.energyProduced=에너지 생산
 info.thermalexpansion.augment.energyUsed=에너지 소모
 info.thermalexpansion.augment.fuelConsumed=연료 소모
 info.thermalexpansion.augment.fuelEnergy=발전량 증가
-info.thermalexpansion.augment.levels.0=이전 단계의 업그레이드가 설치되 있어야합니다.
+info.thermalexpansion.augment.levels.0=이전 단계의 업그레이드가 설치되어 있어야합니다.
 info.thermalexpansion.augment.levels.1=가장 높은 단계의 강화만 적용됩니다.
 info.thermalexpansion.augment.machine.0=요구하는 것:
 info.thermalexpansion.augment.machine.1=단계의 기계가 필요합니다.
@@ -162,9 +162,9 @@ info.thermalexpansion.capacitor.1=Shift 우클릭으로 활성화합니다.
 info.thermalexpansion.capacitor.2=손에 있는 아이템 충전 중
 info.thermalexpansion.capacitor.3=Shift 우클릭으로 비활성화합니다.
 info.thermalexpansion.capacitor.4=단축창에 있어야합니다.
-info.thermalexpansion.capacitor.potato=현명한선택입니다! 하지만 재충전을 불가능해요.
+info.thermalexpansion.capacitor.potato=현명한 선택입니다! 하지만 재충전은 불가능해요.
 
-info.thermalexpansion.diagram.0=Shift 우클릭으로 설정을 지웁니다.
+info.thermalexpansion.diagram.0=Shift-우클릭으로 설정을 초기화합니다.
 info.thermalexpansion.diagram.1=기계에 사용해서 설정을 복사합니다.
 info.thermalexpansion.diagram.2=기계에 사용해서 저장된 설정을 입력합니다.
 
@@ -195,8 +195,8 @@ info.thermalexpansion.florb.3=던질 수 있습니다.
 info.thermalexpansion.florb.4=이 액체는 공기보다 가볍습니다.
 info.thermalexpansion.florb.5=더 멀리 던질 수 있습니다.
 
-#info.thermalexpansion.securable=Securable with a lock.
-#info.thermalexpansion.storage.enchant=Can be enchanted to hold more items.
+#info.thermalexpansion.securable=보안 설정이 가능합니다.
+#info.thermalexpansion.storage.enchant=마법이 부여되면 저장 공간이 증가합니다.
 #info.thermalexpansion.wrench=Wrench while sneaking to dismantle.
 
 #아이템(Items)
@@ -214,8 +214,8 @@ item.thermalexpansion.augment.dynamoOutput1.name=자속 제어 향상
 item.thermalexpansion.augment.dynamoOutput2.name=극저온 자속 증폭기
 ##item.thermalexpansion.augment.dynamoThrottle.name=Excitation Field Limiter
 
-item.thermalexpansion.augment.generalAutoTransfer.name=내장 서보 매커니즘
-item.thermalexpansion.augment.generalReconfigSides.name=내장 모듈러 프레임 워크
+item.thermalexpansion.augment.generalAutoTransfer.name=내장 서보 메커니즘
+item.thermalexpansion.augment.generalReconfigSides.name=내장 모듈러 프레임워크
 item.thermalexpansion.augment.generalRedstoneControl.name=내장 레드스톤 회로
 
 item.thermalexpansion.augment.machineSecondary0.name=보조 거름망
@@ -271,10 +271,10 @@ item.thermalexpansion.tool.multimeter.name=멀티 미터
 item.thermalexpansion.tool.debugger.name=디버거
 item.thermalexpansion.tool.igniter.name=플럭스 점화기
 
-itemGroup.thermalexpansion.creativeTabBlocks=써멀 익스펜션: 블록
-itemGroup.thermalexpansion.creativeTabTools=써멀 익스펜션: 도구
-itemGroup.thermalexpansion.creativeTabItems=써멀 익스펜션: 아이템
-itemGroup.thermalexpansion.creativeTabFlorbs=써멀 익스펜션: 플로브
+itemGroup.thermalexpansion.creativeTabBlocks=써멀 익스퍈팬션: 블록
+itemGroup.thermalexpansion.creativeTabTools=써멀 익스팬션: 도구
+itemGroup.thermalexpansion.creativeTabItems=써멀 익스팬션: 아이템
+itemGroup.thermalexpansion.creativeTabFlorbs=써멀 익스팬션: 플로브
 
 #정보 탭(Info Tabs)
 tab.thermalexpansion.cell.0=레드스톤 플럭스를 저장합니다.
@@ -315,7 +315,7 @@ tab.thermalexpansion.machine.sawmill.1=손으로 하는것 보다 훨씬 효율�
 tab.thermalexpansion.machine.sawmill.2=손 조심하세요!
 tab.thermalexpansion.machine.smelter.0=금속과 여러 물질을 매우 높은 온도에서 제련합니다.
 tab.thermalexpansion.machine.smelter.1=광석을 정제하고 고급기계를 제작할때 유용합니다.
-tab.thermalexpansion.machine.smelter.2=요리는 당연히 안되요.
+tab.thermalexpansion.machine.smelter.2=요리는 당연히 안 되요.
 tab.thermalexpansion.machine.crucible.0=고체를 액체로 녹입니다.
 tab.thermalexpansion.machine.crucible.1=고급기계들을 제작할때 매우 유용합니다.
 tab.thermalexpansion.machine.crucible.2=어린아이와 애완동물이 가까이 가지 않게 주의하세요.
@@ -324,7 +324,7 @@ tab.thermalexpansion.machine.transposer.1=버튼을 눌러서 주입모드에서
 tab.thermalexpansion.machine.transposer.2=보통 거꾸로도 가능해요.
 tab.thermalexpansion.machine.precipitator.0=다양한 액체를 얼립니다.
 tab.thermalexpansion.machine.precipitator.1=충분한 액체가 탱크에 있다면, 선택한 아이템을 제작합니다.
-tab.thermalexpansion.machine.precipitator.2=눈싸움 한 번 해보세요.
+tab.thermalexpansion.machine.precipitator.2=눈싸움 한 번 해 보세요.
 tab.thermalexpansion.machine.extruder.0=물과 용암을 혼합아여 다양한 종류의 화성암을 생성합니다.
 tab.thermalexpansion.machine.extruder.1=충분한 액체가 탱크에 있다면, 선택된 아이템을 제작합니다.
 tab.thermalexpansion.machine.extruder.2=마인크래프트 물리학은 참 웃겨요!
@@ -334,9 +334,9 @@ tab.thermalexpansion.machine.accumulator.2=익사하지 않아요.
 tab.thermalexpansion.machine.assembler.0=도식도에 저장된 조합법으로 아이템을 만듭니다.
 tab.thermalexpansion.machine.assembler.1=1회 조합에 20 RF가 소모됩니다.
 tab.thermalexpansion.machine.assembler.2=아뇨. 그건 못 만들어요.
-tab.thermalexpansion.machine.charger.0=RF를호환하는 아이템에 에너지를 충전합니다.
+tab.thermalexpansion.machine.charger.0=RF를 호환하는 아이템에 에너지를 충전합니다.
 tab.thermalexpansion.machine.charger.1=충전속도는 아이템에 따라 달라집니다.
-tab.thermalexpansion.machine.charger.2=윙윙거리는 소리를 잘들어보세요.
+tab.thermalexpansion.machine.charger.2=윙윙거리는 소리를 잘 들어보세요.
 
 tab.thermalexpansion.satchel.0=이것은 가방입니다. 몇몇 아이템은 담을 수 없습니다.
 tab.thermalexpansion.satchel.1=환불은 안됩니다.
@@ -345,7 +345,7 @@ tab.thermalexpansion.satchel.creative=한 종류의 아이템만 담을 수 있�
 tab.thermalexpansion.storage.enchant=더 많은 아이템을 보관 가능하게 하는 인챈트가 가능합니다.
 
 tab.thermalexpansion.strongbox.0=이것은 상자입니다! 물건을 저장합니다. 뭐... 대부분의 물건 말입니다.
-tab.thermalexpansion.strongbox.creative=한가지의 무한한 아이템을 보유하고 있습니다!
+tab.thermalexpansion.strongbox.creative=한 가지의 무한한 아이템을 보유하고 있습니다!
 
 #블럭(Blocks)
 tile.thermalexpansion.cache.creative.name=크리에이티브 캐시
@@ -374,7 +374,7 @@ tile.thermalexpansion.dynamo.compression.name=압착 다이나모
 tile.thermalexpansion.dynamo.reactant.name=반응 다이나모
 tile.thermalexpansion.dynamo.enervation.name=에너제이션 다이나모
 
-tile.thermalexpansion.ender.tesseract.name=테서락트
+tile.thermalexpansion.ender.tesseract.name=테서랙트
 
 tile.thermalexpansion.frame.machineBasic.name=머신 프레임 (기본)
 tile.thermalexpansion.frame.machineHardened.name=머신 프레임 (경화)
@@ -383,8 +383,8 @@ tile.thermalexpansion.frame.machineResonant.name=머신 프레임 (공진)
 tile.thermalexpansion.frame.cellBasic.name=리드스톤 에너지 셀 프레임
 tile.thermalexpansion.frame.cellReinforcedEmpty.name=레드스톤 에너지 셀 프레임 (빔)
 tile.thermalexpansion.frame.cellReinforcedFull.name=레드스톤 에너지 셀 프레임 (가득참)
-tile.thermalexpansion.frame.tesseractEmpty.name=테서락트 프레임 (빔)
-tile.thermalexpansion.frame.tesseractFull.name=테서락트 프레임 (가득참)
+tile.thermalexpansion.frame.tesseractEmpty.name=테서랙트 프레임 (빔)
+tile.thermalexpansion.frame.tesseractFull.name=테서랙트 프레임 (가득참)
 tile.thermalexpansion.frame.illuminator.name=조명기 틀
 
 tile.thermalexpansion.glass.name=강화 유리
@@ -396,14 +396,14 @@ tile.thermalexpansion.light.lampBasic.name=루미움 램프
 tile.thermalexpansion.machine.furnace.name=레드스톤 화로
 tile.thermalexpansion.machine.pulverizer.name=분쇄기
 tile.thermalexpansion.machine.sawmill.name=제재기
-tile.thermalexpansion.machine.smelter.name=합금 제련소
+tile.thermalexpansion.machine.smelter.name=합금 제련기
 tile.thermalexpansion.machine.crucible.name=융해 도가니
 tile.thermalexpansion.machine.transposer.name=액체 운송기
 tile.thermalexpansion.machine.precipitator.name=동력 냉각기
 tile.thermalexpansion.machine.extruder.name=화성암 생성기
 tile.thermalexpansion.machine.accumulator.name=물 축적기
 tile.thermalexpansion.machine.assembler.name=순환 조합기
-tile.thermalexpansion.machine.charger.name=주입기
+tile.thermalexpansion.machine.charger.name=전력 주입기
 
 tile.thermalexpansion.rockwool.black.name=검은색 석면
 tile.thermalexpansion.rockwool.red.name=빨간색 석면
